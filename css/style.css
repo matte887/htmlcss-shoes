@@ -10,9 +10,10 @@ html {
 }
 
 /* COMMON */
-.background {
+.product-background {
     width: 100%;
     height: 100vh;
+    position: relative;
 }
 
 .product-container {
@@ -36,4 +37,16 @@ h2 {
 /* MAIN */
 #differente {
     background-color: red;
+}
+
+#tommy {
+    background-color: green;
+}
+
+#allstar {
+    background-color: yellow;
+}
+
+#allstar h2 {
+    color: green;
 }
