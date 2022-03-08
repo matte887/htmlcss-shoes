@@ -17,6 +17,21 @@ nav a {
     color: black;
 }
 
+nav li {
+    display: inline-block;
+    font-size: 1.3em;
+}
+
+nav {
+    position: fixed;
+    right: 2em;
+    top: 2em;
+    z-index: 100;
+}
+
+.dot {
+
+}
 /* COMMON MAIN*/
 .product-background {
     width: 100%;
