@@ -7,6 +7,14 @@
 
 html {
     font-family: 'Rubik Mono One', sans-serif;
+    scroll-behavior: smooth;
+}
+
+/* NAV */
+nav a {
+    list-style: none;
+    text-decoration: none;
+    color: black;
 }
 
 /* COMMON MAIN*/
