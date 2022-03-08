@@ -30,7 +30,13 @@ nav {
 }
 
 .dot {
-
+    background-color: white;
+    border-radius: 50%;
+    width: 3em;
+    height: 3em;
+    display: inline-block;
+    text-align: center;
+    line-height: 3em;
 }
 /* COMMON MAIN*/
 .product-background {
