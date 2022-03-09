@@ -29,7 +29,7 @@ nav {
     z-index: 100;
 }
 
-.dot {
+nav ul li a {
     display: inline-block;
     width: 3em;
     height: 3em;
